@@ -1,1 +1,2 @@
-Notebooks used for obtaining the results
+- NB01 Dirichlet Idiots: simple word cloud of referred titles
+- Temporal evolution of the word cloud 
