@@ -1,6 +1,5 @@
-## The Good, Bad, and the Ugly Drivers
-
+## Here is a visualization of titles I have referred to
 <center>
-<img src="https://github.com/jArumugam/BigFish/blob/master/results/hack_performance_40x40.png" width="500" />
+<img src="https://github.com/jArumugam/Dirichlet-Idiots/blob/master/results/jayDat_wordCloud.png" width="600" />
 </center>
 
