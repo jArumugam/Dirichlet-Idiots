@@ -1,5 +1,5 @@
 
-## Here is an animation of the temporal evolution of those words
+## Here is an animation (verion 0.1) of the temporal evolution of those words
 <center>
 <img src="https://github.com/jArumugam/Dirichlet-Idiots/blob/master/results/jayDat_wordCloud.gif" width="600" />
 </center>
