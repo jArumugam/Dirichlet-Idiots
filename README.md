@@ -2,7 +2,6 @@
 Concise visual representation of text 
 
 This is my project on text visualization. 
-Here is a summary of books titles words I have reffered to. 
 
 ### Here is a temproal evolution of words from the book titles I have referred to 
 <center>
