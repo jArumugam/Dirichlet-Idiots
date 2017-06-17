@@ -1,4 +1,4 @@
-## Here is temporal dependence of the titles I have referred to 
+## Here is temporal clustering of the titles I have referred to 
 <center>
 <img src="https://github.com/jArumugam/Dirichlet-Idiots/blob/master/results/jay_ReadingClustering.png" width="600" />
 </center>
